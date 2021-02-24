@@ -1,1 +1,4 @@
-# This is tutorial on Python
+# Python Tutorial
+## If,elif,else statments are explained 
+## while, for loop is 
+
