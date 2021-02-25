@@ -12,3 +12,6 @@ executed and iter variable is incremented by 1. Then, the condition is again che
 
 [Click here for DIY](https://github.com/pythoncoder100/practice/blob/master/while_loop.ipynb)
 
+An else block can be included with while block. The else block would get executed when the condition in while block is/becomes false. So, it is impossible for while block to get executed a finite number of times
+
+[Click here for an illustration](https://github.com/pythoncoder100/practice/blob/master/while%20else.ipynb)
