@@ -12,5 +12,9 @@ for loop can also be used to iterate over elements of a list/tuple.
 
 [Here is a program that iterates over the elements in an array and finds its sum](https://github.com/pythoncoder100/practice/blob/master/for_loop_list.ipynb)
 
+for loop can also be used to iterate over elements in a string. 
+
+[Here is a program to reverse the elements of a string](https://github.com/pythoncoder100/practice/blob/master/for_loop_reversing_the_string.ipynb)
+
 
 
