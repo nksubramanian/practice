@@ -12,3 +12,4 @@
 ### [typecasting](https://github.com/pythoncoder100/practice/blob/master/typecasting.md)
 ### [complex number declaration](https://github.com/pythoncoder100/practice/blob/master/complex_number_declaration.ipynb)
 ### [complex number operations](https://github.com/pythoncoder100/practice/blob/master/complex_number_operations.ipynb)
+### [Rectangular to polar and vice versa](https://github.com/pythoncoder100/practice/blob/master/rect%20to%20polar%20and%20vice%20versa.md)
