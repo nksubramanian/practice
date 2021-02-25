@@ -10,7 +10,7 @@ The range is an inbuilt function used to generate a sequence.
 
 for loop can also be used to iterate over elements of a list/tuple.
 
-[Click here to see program that adds the sum of elements in an array](https://github.com/pythoncoder100/practice/blob/master/for_loop_list.ipynb)
+[Here is a program that iterates over the elements in an array and finds its sum](https://github.com/pythoncoder100/practice/blob/master/for_loop_list.ipynb)
 
 
 
