@@ -14,3 +14,4 @@
 ### [complex number operations](https://github.com/pythoncoder100/practice/blob/master/complex_number_operations.ipynb)
 ### [Rectangular to polar and vice versa](https://github.com/pythoncoder100/practice/blob/master/rect%20to%20polar%20and%20vice%20versa.md)
 ### [String Declaration](https://github.com/pythoncoder100/practice/blob/master/String%20Declaration.md)
+### [Iterating over String](https://github.com/pythoncoder100/practice/blob/master/Iterating%20over%20string.md)
