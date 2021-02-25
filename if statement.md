@@ -9,7 +9,8 @@ if condition;\
 \
 \
 \
-
+Here is an example that prints the number is zero. You can try out
+[Click here to go to the example](https://github.com/pythoncoder100/practice/blob/master/If_statement.ipynb)
 
 
   
