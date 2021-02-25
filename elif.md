@@ -13,7 +13,7 @@ elif condition:\
 elif condition:\
 -->statement\
 \
-An else block can be included and is optional.\ 
+An else block can be included and is optional.
 
 
 Here is program to check if the number is even or zero.
