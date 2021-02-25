@@ -4,7 +4,7 @@
 
 # Below is the syntax
 
-if condition;\
+if condition:\
 -->statements 
 \
 \
