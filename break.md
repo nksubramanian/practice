@@ -6,3 +6,7 @@ Here in this program, the condition mentioned in the while loop is always True. 
 
 [Click here to see break used in while loop](https://github.com/pythoncoder100/practice/blob/master/break_in_while_loop.ipynb)
 
+break statement can also be used with for loop
+
+[Click here to see break used with for loop](https://github.com/pythoncoder100/practice/blob/master/break_in_for_loop.ipynb)
+
