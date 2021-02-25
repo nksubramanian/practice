@@ -6,8 +6,8 @@ The if else statement is a slightly more advanced version of the if statement. S
 
 if condition:\
 -->statement\
-else:
--->statement\
+else:\
+-->statement
 
 
 In the "if else" statement, one block of statement is sure to get executed. Either the if block gets executed or else block gets executed.
