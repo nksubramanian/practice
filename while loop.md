@@ -4,7 +4,7 @@ In while loop, the condition gets checked first and the block within the while l
 This goes on until the condition in loop becomes false. If condition would never become true, then the control would always be in the loop. This infinite loop has its uses as well.
 
 # Syntax
-while condition:
+while condition:\
 -->statement
 
 Here is simple program to print up to "n" numbers. At first, "iter" variable is assigned to 1 and then condition(iter<n) is checked for. If the condition is true, the while block gets
