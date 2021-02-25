@@ -1,2 +1,2 @@
 # Python Topics
-## [if](https://www.youtube.com/watch?v=uvTcd-VlM64)
+## [if](if statement.md)
