@@ -5,7 +5,7 @@
 # Below is the syntax
 
 if condition;\
----->statements 
+-->statements 
 
   
   
