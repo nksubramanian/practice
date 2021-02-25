@@ -14,7 +14,8 @@ elif condition:\
 -->statement\
 \
 An else block can be included and is optional.\ 
-\
+
+
 Here is program to check if the number is even or zero.
 [Click here for DIY](https://github.com/pythoncoder100/practice/blob/master/elif.ipynb)
 
