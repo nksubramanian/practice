@@ -9,3 +9,4 @@
 ### [continue statement](https://github.com/pythoncoder100/practice/blob/master/continue.md)
 ### [pass statement](https://github.com/pythoncoder100/practice/blob/master/pass.md)
 ### [basic data types int,float](https://github.com/pythoncoder100/practice/blob/master/basic%20data%20type.md)
+### [typecasting](https://github.com/pythoncoder100/practice/blob/master/typecasting.md)
