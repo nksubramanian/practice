@@ -7,4 +7,4 @@
 ### [for loop with range,list and string](https://github.com/pythoncoder100/practice/blob/master/for%20loop%20range.md)
 ### [break statement](https://github.com/pythoncoder100/practice/blob/master/break.md)
 ### [continue statement](https://github.com/pythoncoder100/practice/blob/master/continue.md)
-
+### [pass statement](https://github.com/pythoncoder100/practice/blob/master/pass.md)
