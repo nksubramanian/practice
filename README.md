@@ -16,3 +16,4 @@
 ### [String Declaration](https://github.com/pythoncoder100/practice/blob/master/String%20Declaration.md)
 ### [Iterating over String](https://github.com/pythoncoder100/practice/blob/master/Iterating%20over%20string.md)
 ### [Searching for a Substring](https://github.com/pythoncoder100/practice/blob/master/Searching%20for%20Substring.md)
+### [Concatenating Strings](https://github.com/pythoncoder100/practice/blob/master/Concatenating%20Strings.md)
