@@ -28,3 +28,4 @@
 ### [Looping through Elements in a List](https://github.com/pythoncoder100/practice/blob/master/Looping%20through%20Elements%20in%20List.md)
 ### [Sorting the Elements in a List](https://github.com/pythoncoder100/practice/blob/master/Sorting%20through%20List.md)
 ### [Tuple Declaration](https://github.com/pythoncoder100/practice/blob/master/Tuples%20Declaration.md)
+### [Tuple to List Conversion and Vice Versa](https://github.com/pythoncoder100/practice/blob/master/Tuple%20to%20Link%20Conversion%20and%20Vice%20Versa.md)
