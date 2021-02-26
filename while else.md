@@ -8,6 +8,6 @@ So, it is impossible to have only the while block executed
 
 while condition:\
 -->statement else:\
--->statment\
+-->statment
 
 [Click here for DYI](https://colab.research.google.com/github/pythoncoder100/practice/blob/master/while%20else.ipynb)
