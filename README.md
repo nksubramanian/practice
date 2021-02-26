@@ -22,3 +22,4 @@
 ### [List Declaration](https://github.com/pythoncoder100/practice/blob/master/List.md)
 ### [Length of List](https://github.com/pythoncoder100/practice/blob/master/List%20Length.md)
 ### [Accessing Elements in a List](https://github.com/pythoncoder100/practice/blob/master/Accessing%20List%20Items.md)
+### [Changing Elements in a List](https://github.com/pythoncoder100/practice/blob/master/Changing%20Elements%20in%20a%20List.md)
