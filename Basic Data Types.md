@@ -2,8 +2,8 @@
 * Numeric Data Type
   * [int and float](https://github.com/pythoncoder100/practice/blob/master/basic%20data%20type.md) 
   * complex numbers
-    * [Complex Number Declaration](https://github.com/pythoncoder100/practice/blob/master/complex_number_declaration.ipynb)
-    * [Complex Number Operation](https://github.com/pythoncoder100/practice/blob/master/complex_number_operations.ipynb)
+    * [Complex Number Declaration](https://github.com/pythoncoder100/practice/blob/master/complex%20numbers.md)
+    * [Complex Number Operation](https://github.com/pythoncoder100/practice/blob/master/complex%20number%20operations.md)
     * [Rectangular to Polar representation and vice versa](https://github.com/pythoncoder100/practice/blob/master/rect%20to%20polar%20and%20vice%20versa.md)
 * Sequence
   * String 
