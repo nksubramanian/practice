@@ -1,4 +1,5 @@
 # Python Topics
+<!---
 ### [if](https://github.com/pythoncoder100/practice/blob/master/if%20statement.md)
 ### [if else](https://github.com/pythoncoder100/practice/blob/master/if%20else%20statement.md)
 ### [elif](https://github.com/pythoncoder100/practice/blob/master/elif.md)
@@ -38,5 +39,6 @@
 ### [Accessing Members in Set](https://github.com/pythoncoder100/practice/blob/master/Accessing%20members%20of%20a%20Set.md)
 ### [Adding members to a Set](https://github.com/pythoncoder100/practice/blob/master/Adding%20members%20to%20Set.md)
 ### [Removing members of a Set](https://github.com/pythoncoder100/practice/blob/master/Removing%20Members%20of%20Set.md)
+-->
 ### [Control Statements](https://github.com/pythoncoder100/practice/blob/master/Control%20Statements.md)
 ### [Basic Data Types](https://github.com/pythoncoder100/practice/blob/master/Basic%20Data%20Types.md)
