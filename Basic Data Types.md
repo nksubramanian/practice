@@ -29,7 +29,7 @@
      * [Unpacking Tuple](https://github.com/pythoncoder100/practice/blob/master/Unpacking%20Tuples.md)
      * [Looping Through Elements in Tuples](https://github.com/pythoncoder100/practice/blob/master/Looping_through_Elements_in_Tuples.ipynb)
 * Sets
-  * [Set Declaration](https://github.com/pythoncoder100/practice/tree/master)
+  * [Set Declaration](https://github.com/pythoncoder100/practice/blob/master/set%20declaration.md)
   * [Accessing Members in Set](https://github.com/pythoncoder100/practice/blob/master/Accessing%20members%20of%20a%20Set.md) 
   * [Adding Members to Set](https://github.com/pythoncoder100/practice/blob/master/Adding%20members%20to%20Set.md)
   * [Removing Members of Set](https://github.com/pythoncoder100/practice/blob/master/Removing%20Members%20of%20Set.md)
