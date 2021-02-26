@@ -20,3 +20,4 @@
 ### [slicing the string](https://github.com/pythoncoder100/practice/blob/master/Slicing%20Strings.md)
 ### [Basic String Operations](https://github.com/pythoncoder100/practice/blob/master/String%20Basic%20Operations.md)
 ### [List Declaration](https://github.com/pythoncoder100/practice/blob/master/List.md)
+### [Length of List](https://github.com/pythoncoder100/practice/blob/master/List%20Length.md)
