@@ -33,6 +33,7 @@
 ### [Unpacking Tuples](https://github.com/pythoncoder100/practice/blob/master/Unpacking%20Tuples.md)
 ### [Looping through Elements in a Tuple](https://github.com/pythoncoder100/practice/blob/master/Looping_through_Elements_in_Tuples.ipynb)
 ### [Joining Tuples together](https://github.com/pythoncoder100/practice/blob/master/Joining%20tuples%20together.md)
+### [Basic Data Types](https://github.com/pythoncoder100/practice/blob/master/Basic%20Data%20Types.md)
 ### [Set Declaration](https://github.com/pythoncoder100/practice/tree/master)
 ### [Accessing Members in Set](https://github.com/pythoncoder100/practice/blob/master/Accessing%20members%20of%20a%20Set.md)
 ### [Adding members to a Set](https://github.com/pythoncoder100/practice/blob/master/Adding%20members%20to%20Set.md)
