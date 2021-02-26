@@ -8,6 +8,6 @@
   * [While Statement](https://github.com/pythoncoder100/practice/blob/master/while%20loop.md)
   * [While else Statement](https://github.com/pythoncoder100/practice/blob/master/while%20else.md)
   * [for Statement](https://github.com/pythoncoder100/practice/blob/master/for%20loop%20range.md)
-* [continue Statement]()
+* [continue Statement](https://github.com/pythoncoder100/practice/blob/master/continue.md)
 * [break Statement](https://github.com/pythoncoder100/practice/blob/master/break.md)
 * [pass Statement](https://github.com/pythoncoder100/practice/blob/master/pass.md)
