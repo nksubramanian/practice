@@ -25,3 +25,4 @@
 ### [Changing Elements in a List](https://github.com/pythoncoder100/practice/blob/master/Changing%20Elements%20in%20a%20List.md)
 ### [Adding Elements in a List](https://github.com/pythoncoder100/practice/blob/master/Adding%20New%20Elements%20to%20List.md)
 ### [Removing Elements in a List](https://github.com/pythoncoder100/practice/blob/master/Removing%20Elements%20in%20a%20List.md)
+### [Looping through Elements in a List](https://github.com/pythoncoder100/practice/blob/master/Looping%20through%20Elements%20in%20List.md)
