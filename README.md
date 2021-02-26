@@ -24,3 +24,4 @@
 ### [Accessing Elements in a List](https://github.com/pythoncoder100/practice/blob/master/Accessing%20List%20Items.md)
 ### [Changing Elements in a List](https://github.com/pythoncoder100/practice/blob/master/Changing%20Elements%20in%20a%20List.md)
 ### [Adding Elements in a List](https://github.com/pythoncoder100/practice/blob/master/Adding%20New%20Elements%20to%20List.md)
+### [Removing Elements in a List](https://github.com/pythoncoder100/practice/blob/master/Removing%20Elements%20in%20a%20List.md)
