@@ -2,4 +2,6 @@
 
 Operations between complex numbers are mathematically defined. 
 
-[Click here to view basic operation](https://github.com/pythoncoder100/practice/blob/master/complex_number_operations.ipynb)
+Some of the operations are addition, subtraction, division, multiplication, exponentiation, obtaining real and imaginary components
+
+[Click here to try](https://colab.research.google.com/github/pythoncoder100/practice/blob/master/complex_number_operations.ipynb)
