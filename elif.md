@@ -6,7 +6,7 @@ If the condition turns out to be true, the first block gets executed and then re
 
 If the condition in the first block turns out to false, then next elif block is checked and so on.
 
-# syntax
+# Syntax
 
 ```python
 
