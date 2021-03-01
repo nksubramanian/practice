@@ -20,7 +20,7 @@ while True:
 
 [Click here to try](https://colab.research.google.com/github/pythoncoder100/practice/blob/master/break_in_while_loop.ipynb)
 
-break statement can also be used with for loop
+break statement can also be used with for loop as shown below
 
 ```python
 
