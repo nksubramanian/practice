@@ -14,13 +14,8 @@ if condition:
   statements
 ```
 
-if condition:\
--->statements 
-\
-\
-\
-Here is an example that prints the number is zero. You can try out\
-\
+Here is an example that prints the number is zero. You can try out
+
 [Click here to go to the example and DIY](https://github.com/pythoncoder100/practice/blob/master/If_statement.ipynb)
 
 
