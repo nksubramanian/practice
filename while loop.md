@@ -28,6 +28,6 @@ while(iter<n):
   print(n)
 ```
 
-[Click here for DIY](https://github.com/pythoncoder100/practice/blob/master/while_loop.ipynb)
+[Click here to try](https://colab.research.google.com/github/pythoncoder100/practice/blob/master/while_loop.ipynb)
 
 
