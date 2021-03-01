@@ -23,7 +23,7 @@ if num>0:
 print("This line is always printed as it falls outside the if block.")
 ```
 
-[Click here to try](https://github.com/pythoncoder100/practice/blob/master/If_statement.ipynb)
+[Click here to try](https://colab.research.google.com/github/pythoncoder100/practice/blob/master/If_statement.ipynb)
 
 
   
