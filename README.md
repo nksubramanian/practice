@@ -49,6 +49,7 @@
 ### [Removing Elements from Dictionary](https://github.com/pythoncoder100/practice/blob/master/Removing%20Elements%20from%20Dictionary.md)
 ### [Copying one Dictionary to another](https://github.com/pythoncoder100/practice/blob/master/Copying%20one%20Dictionary%20to%20another.md)
 ### [Nested Dictionary](https://github.com/pythoncoder100/practice/blob/master/Nested%20Dictionary.md)
+### [Try Except](https://github.com/pythoncoder100/practice/blob/master/Try%20Except.md)
 
 
 ### [Control Statements](https://github.com/pythoncoder100/practice/blob/master/Control%20Statements.md)
