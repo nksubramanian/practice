@@ -35,9 +35,11 @@ del Sheela
 
 [Click here for DYI](https://colab.research.google.com/github/pythoncoder100/practice/blob/master/Clearing_dictionary_using_clear().ipynb)
 
-Sheela.clear()
+
 
 4) clear method can also be used to clear the contents of dictionary
+
+Sheela.clear()
 
 [Click here for DYI](https://colab.research.google.com/github/pythoncoder100/practice/blob/master/Removing_items_using_del_method.ipynb)
 
