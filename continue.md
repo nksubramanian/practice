@@ -8,6 +8,8 @@ The control gets to the start of the loop.
 
 ### Here is a program for illustration
 
+When iter is 3, reamining portion(print statement) is skipped
+
 ```python
 
 for iter in range(0,7):
