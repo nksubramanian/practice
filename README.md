@@ -44,6 +44,8 @@
 ### [Accessing Elements in Dictionary](https://github.com/pythoncoder100/practice/blob/master/Accessing%20and%20Changing%20elements%20in%20Dictionary.md)
 ### [Finding Keys in Dictionary](https://github.com/pythoncoder100/practice/blob/master/Finding_Keys_of_Dictionary.ipynb)
 ### [Checking for Key in Dictionary](https://github.com/pythoncoder100/practice/blob/master/Checking%20for%20Key%20in%20Dictionary.md)
+### [Updating Elements in Dictionary](https://github.com/pythoncoder100/practice/blob/master/Updating%20Values%20in%20Dictionary.md)
 
 ### [Control Statements](https://github.com/pythoncoder100/practice/blob/master/Control%20Statements.md)
 ### [Basic Data Types](https://github.com/pythoncoder100/practice/blob/master/Basic%20Data%20Types.md)
+
