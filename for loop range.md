@@ -16,7 +16,7 @@ for iter in range(0,5):
   print(iter)
 
 ```
-[Click here to try](https://github.com/pythoncoder100/practice/blob/master/for_loop.ipynb)
+[Click here to try](https://colab.research.google.com/github/pythoncoder100/practice/blob/master/for_loop.ipynb)
 
 
 
@@ -49,7 +49,7 @@ print(reversed_string)
 
 ```
 
-[Click here to try](https://github.com/pythoncoder100/practice/blob/master/for_loop_reversing_the_string.ipynb)
+[Click here to try](https://colab.research.google.com/github/pythoncoder100/practice/blob/master/for_loop_reversing_the_string.ipynb)
 
 
 
