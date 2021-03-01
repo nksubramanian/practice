@@ -41,7 +41,7 @@
 ### [Removing members of a Set](https://github.com/pythoncoder100/practice/blob/master/Removing%20Members%20of%20Set.md)
 -->
 ### [Dictionary Declaration](https://github.com/pythoncoder100/practice/blob/master/Dictionary%20Declaration.md)
-### [Accessing Elements in Dictionary](https://github.com/pythoncoder100/practice/blob/master/Accessing_Elements_in_Dictionary.ipynb)
+### [Accessing Elements in Dictionary](https://github.com/pythoncoder100/practice/blob/master/Accessing%20and%20Changing%20elements%20in%20Dictionary.md)
 ### [Finding Keys in Dictionary](https://github.com/pythoncoder100/practice/blob/master/Finding_Keys_of_Dictionary.ipynb)
 ### [Checking for Key in Dictionary](https://github.com/pythoncoder100/practice/blob/master/Checking%20for%20Key%20in%20Dictionary.md)
 
