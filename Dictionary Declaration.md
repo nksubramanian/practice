@@ -9,7 +9,7 @@ Tom = {\
   "Age": 22,\
   "Gender": "Male",\
 }\
-print(Tom)\
+print(Tom)
 
 
 Sheela = {\
@@ -17,7 +17,7 @@ Sheela = {\
   "Age": 21,\
   "Gender": "Female",\
 }\
-print(Sheela)\
+print(Sheela)
 
 [Click here for DYI](https://colab.research.google.com/github/pythoncoder100/practice/blob/master/Dictionary%20Declaration.ipynb)
 
