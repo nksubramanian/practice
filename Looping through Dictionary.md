@@ -32,6 +32,14 @@ for x in Sheela.values():
   
 [Click here for DYI](https://colab.research.google.com/drive/1yDvHsEP-b9wOhABr-QsPw_JTyFjYJbKX#scrollTo=OuiT9zTq977o)
 
+5) Both key and value can be looped over using items()
+
+Sheela = { "Major": "Chemistry", "Age": 21, "Gender": "Female", "Qualification":"Bachelor" }\
+for x, y in Sheela.items():
+  print(x, y)
+  
+[Click here for DYI](https://colab.research.google.com/github/pythoncoder100/practice/blob/master/Looping_through_Dictionary_using_items().ipynb)
+
 
 
 
