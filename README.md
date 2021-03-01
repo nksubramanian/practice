@@ -50,6 +50,7 @@
 ### [Copying one Dictionary to another](https://github.com/pythoncoder100/practice/blob/master/Copying%20one%20Dictionary%20to%20another.md)
 ### [Nested Dictionary](https://github.com/pythoncoder100/practice/blob/master/Nested%20Dictionary.md)
 ### [Try Except](https://github.com/pythoncoder100/practice/blob/master/Try%20Except.md)
+### [Finally in Try Catch](https://github.com/pythoncoder100/practice/blob/master/finally%20in%20try%20catch.md)
 
 
 ### [Control Statements](https://github.com/pythoncoder100/practice/blob/master/Control%20Statements.md)
