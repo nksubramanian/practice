@@ -21,6 +21,16 @@ In the "if else" statement, one block of statement is sure to get executed. Eith
 
 Here is a program to check if a number is odd or even
 
+```python
+
+num=4
+if num>0:
+  print("The number is greater than 0")
+else:
+  print("The number is 0 or less than 0")
+
+```
+
 [Click here to try](https://colab.research.google.com/github/pythoncoder100/practice/blob/master/if_else.ipynb)
 
 
