@@ -29,7 +29,9 @@ popitem() returns the key-value pair too
 
 del Sheela["Age"]
 
-Entire dictionary could also be deleted using del method
+Entire dictionary could also be deleted using the del method
+
+del Sheela
 
 [Click here for DYI]("https://colab.research.google.com/github/pythoncoder100/practice/blob/master/Removing_items_using_del_method.ipynb")
 
