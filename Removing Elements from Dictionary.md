@@ -25,7 +25,7 @@ popitem() returns the key-value pair too
 [Click here for DYI](https://colab.research.google.com/github/pythoncoder100/practice/blob/master/Removing_items_from_Dictionary.ipynb)
 
 
-3) del method can also be used to remove items from Dicitonary
+3)del method can also be used to remove items from Dicitonary
 
 del Sheela["Age"]
 
