@@ -48,6 +48,7 @@
 ### [Adding New Element to Dictionary](https://github.com/pythoncoder100/practice/blob/master/Adding%20new%20Elements%20to%20Dictionary.md)
 ### [Removing Elements from Dictionary](https://github.com/pythoncoder100/practice/blob/master/Removing%20Elements%20from%20Dictionary.md)
 ### [Copying one Dictionary to another](https://github.com/pythoncoder100/practice/blob/master/Copying%20one%20Dictionary%20to%20another.md)
+### [Nested Dictionary](https://github.com/pythoncoder100/practice/blob/master/Nested%20Dictionary.md)
 
 
 ### [Control Statements](https://github.com/pythoncoder100/practice/blob/master/Control%20Statements.md)
