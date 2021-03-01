@@ -6,7 +6,7 @@ If the condition is found to be true, then the block of statements below the con
 
 If the condition is evaluated to false, then the block gets skipped.
 
-# Below is the syntax
+### Below is the syntax
 
 
 ```python
@@ -14,9 +14,16 @@ if condition:
   statements
 ```
 
-Here is an example that prints the number is zero. You can try out
+### Here is a program that checks if a number is greater than 0
 
-[Click here to go to the example and DIY](https://github.com/pythoncoder100/practice/blob/master/If_statement.ipynb)
+```python
+num=5
+if num>0:
+  print("Number is greater than 0")
+print("This line is always printed as it falls outside the if block.")
+```
+
+[Click here to try](https://github.com/pythoncoder100/practice/blob/master/If_statement.ipynb)
 
 
   
