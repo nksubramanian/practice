@@ -52,7 +52,7 @@
 ### [Try Except](https://github.com/pythoncoder100/practice/blob/master/Try%20Except.md)
 ### [Finally in Try Catch](https://github.com/pythoncoder100/practice/blob/master/finally%20in%20try%20catch.md)
 ### [User defined Exception](https://github.com/pythoncoder100/practice/blob/master/User%20Defined%20Exception.md)
-### ----
+### ----2/3
 ### [Declaring and Calling user defined function](https://github.com/pythoncoder100/practice/blob/master/User%20Defined%20Functions.md)
 ### [Scope of variables(local and global)](https://github.com/pythoncoder100/practice/blob/master/Scope%20of%20variables(Local%20and%20Global).md)
 ### [Declaring Global variable within function](https://github.com/pythoncoder100/practice/blob/master/Declaring%20global%20variable%20within%20function.md)
@@ -60,7 +60,9 @@
 ### [Shallow Copy](https://github.com/pythoncoder100/practice/blob/master/Shallow%20copy.md)
 ### [Deep Copy](https://github.com/pythoncoder100/practice/blob/master/Deep%20Copy.md)
 ### [Recursive Function](https://github.com/pythoncoder100/practice/blob/master/Recursive%20Function.md)
+### ------
 ### [Operators](https://github.com/pythoncoder100/practice/blob/master/Operator.md)
+### ------
 ### [Finding out working directory](https://github.com/pythoncoder100/practice/blob/master/Finding%20Out%20the%20Working%20Directory.md)
 ### [Creating .py file in Google colab](https://github.com/pythoncoder100/practice/blob/master/Creating%20.py%20files%20in%20Google%20Colab.md)
 ### [Using modules by creating and uploading .py file into Colab](https://github.com/pythoncoder100/practice/blob/master/Creating%20Modules%20by%20uploading%20.py%20files%20to%20Colab.md)
