@@ -63,7 +63,8 @@
 ### [Operators](https://github.com/pythoncoder100/practice/blob/master/Operator.md)
 ### [Finding out working directory](https://github.com/pythoncoder100/practice/blob/master/Finding%20Out%20the%20Working%20Directory.md)
 ### [Creating .py file in Google colab](https://github.com/pythoncoder100/practice/blob/master/Creating%20.py%20files%20in%20Google%20Colab.md)
-### [Creating modules by uploading .py file into Colab](https://github.com/pythoncoder100/practice/blob/master/Creating%20Modules%20by%20uploading%20.py%20files%20to%20Colab.md)
+### [Using modules by creating and uploading .py file into Colab](https://github.com/pythoncoder100/practice/blob/master/Creating%20Modules%20by%20uploading%20.py%20files%20to%20Colab.md)
+### [Using modules directly from Google Colab](https://github.com/pythoncoder100/practice/blob/master/Use%20modules%20by%20importing%20from%20Github.md)
 
 ### -----------
 
