@@ -33,3 +33,13 @@
   * [Accessing Members in Set](https://github.com/pythoncoder100/practice/blob/master/Accessing%20members%20of%20a%20Set.md) 
   * [Adding Members to Set](https://github.com/pythoncoder100/practice/blob/master/Adding%20members%20to%20Set.md)
   * [Removing Members of Set](https://github.com/pythoncoder100/practice/blob/master/Removing%20Members%20of%20Set.md)
+* Dictionary
+  * [Dictionary Declaration](https://github.com/pythoncoder100/practice/blob/master/Dictionary%20Declaration.md)
+  * [Accessing Elements in Dictionary](https://github.com/pythoncoder100/practice/blob/master/Accessing%20and%20Changing%20elements%20in%20Dictionary.md)
+  * [Finding Keys in Dictionary](https://github.com/pythoncoder100/practice/blob/master/Finding_Keys_of_Dictionary.ipynb)
+  * [Checking for a key in Dictionary](https://github.com/pythoncoder100/practice/blob/master/Checking%20for%20Key%20in%20Dictionary.md)
+  * [Updating Elements in Dictionary](https://github.com/pythoncoder100/practice/blob/master/Updating%20Values%20in%20Dictionary.md)
+  * [Adding new Element to Dictionary](https://github.com/pythoncoder100/practice/blob/master/Adding%20new%20Elements%20to%20Dictionary.md)
+  * [Removing Elements in Dictionary](https://github.com/pythoncoder100/practice/blob/master/Removing%20Elements%20from%20Dictionary.md)
+  * [Copying one Dictionary to another](https://github.com/pythoncoder100/practice/blob/master/Copying%20one%20Dictionary%20to%20another.md)
+  * [Nested Dictionary](https://github.com/pythoncoder100/practice/blob/master/Nested%20Dictionary.md)
