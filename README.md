@@ -54,10 +54,11 @@
 ### [User defined Exception](https://github.com/pythoncoder100/practice/blob/master/User%20Defined%20Exception.md)
 ### ----
 ### [Declaring and Calling user defined function](https://github.com/pythoncoder100/practice/blob/master/User%20Defined%20Functions.md)
-
+### [Scope of variables(local and global)](https://github.com/pythoncoder100/practice/blob/master/Scope%20of%20variables(Local%20and%20Global).md)
 
 
 
 ### [Control Statements](https://github.com/pythoncoder100/practice/blob/master/Control%20Statements.md)
 ### [Basic Data Types](https://github.com/pythoncoder100/practice/blob/master/Basic%20Data%20Types.md)
+
 
