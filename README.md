@@ -58,6 +58,7 @@
 ### [Declaring Global variable within function](https://github.com/pythoncoder100/practice/blob/master/Declaring%20global%20variable%20within%20function.md)
 ### [Modifying Global Variable within functions](https://github.com/pythoncoder100/practice/blob/master/Modifying%20Global%20Variable%20within%20functions.md)
 ### [Shallow Copy](https://github.com/pythoncoder100/practice/blob/master/Shallow%20copy.md)
+### [Deep Copy](https://github.com/pythoncoder100/practice/blob/master/Deep%20Copy.md)
 
 
 ### -----------
