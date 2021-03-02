@@ -39,7 +39,6 @@
 ### [Accessing Members in Set](https://github.com/pythoncoder100/practice/blob/master/Accessing%20members%20of%20a%20Set.md)
 ### [Adding members to a Set](https://github.com/pythoncoder100/practice/blob/master/Adding%20members%20to%20Set.md)
 ### [Removing members of a Set](https://github.com/pythoncoder100/practice/blob/master/Removing%20Members%20of%20Set.md)
--->
 ### [Dictionary Declaration](https://github.com/pythoncoder100/practice/blob/master/Dictionary%20Declaration.md)
 ### [Accessing Elements in Dictionary](https://github.com/pythoncoder100/practice/blob/master/Accessing%20and%20Changing%20elements%20in%20Dictionary.md)
 ### [Finding Keys in Dictionary](https://github.com/pythoncoder100/practice/blob/master/Finding_Keys_of_Dictionary.ipynb)
@@ -49,6 +48,7 @@
 ### [Removing Elements from Dictionary](https://github.com/pythoncoder100/practice/blob/master/Removing%20Elements%20from%20Dictionary.md)
 ### [Copying one Dictionary to another](https://github.com/pythoncoder100/practice/blob/master/Copying%20one%20Dictionary%20to%20another.md)
 ### [Nested Dictionary](https://github.com/pythoncoder100/practice/blob/master/Nested%20Dictionary.md)
+-->
 ### [Try Except](https://github.com/pythoncoder100/practice/blob/master/Try%20Except.md)
 ### [Finally in Try Catch](https://github.com/pythoncoder100/practice/blob/master/finally%20in%20try%20catch.md)
 ### [User defined Exception](https://github.com/pythoncoder100/practice/blob/master/User%20Defined%20Exception.md)
