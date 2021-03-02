@@ -55,6 +55,7 @@
 ### ----
 ### [Declaring and Calling user defined function](https://github.com/pythoncoder100/practice/blob/master/User%20Defined%20Functions.md)
 ### [Scope of variables(local and global)](https://github.com/pythoncoder100/practice/blob/master/Scope%20of%20variables(Local%20and%20Global).md)
+### [Declaring Global variable within function](https://github.com/pythoncoder100/practice/blob/master/Declaring%20global%20variable%20within%20function.md)
 
 
 
