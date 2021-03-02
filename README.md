@@ -52,6 +52,10 @@
 ### [Try Except](https://github.com/pythoncoder100/practice/blob/master/Try%20Except.md)
 ### [Finally in Try Catch](https://github.com/pythoncoder100/practice/blob/master/finally%20in%20try%20catch.md)
 ### [User defined Exception](https://github.com/pythoncoder100/practice/blob/master/User%20Defined%20Exception.md)
+### ----
+### [Declaring and Calling user defined function](https://github.com/pythoncoder100/practice/blob/master/User%20Defined%20Functions.md)
+
+
 
 
 ### [Control Statements](https://github.com/pythoncoder100/practice/blob/master/Control%20Statements.md)
