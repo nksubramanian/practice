@@ -24,7 +24,7 @@ summation(2,3)
 
 
 Lambdas are particularly useful when one wants to implement various functions that differ from each other only slightly
-For example, all quadratic functions have the form a(x^2)+b(x)+c, or power functions a^b
+For example, all quadratic functions have the form a(x^2)+b(x)+c, or power functions a^n
 
 ```python
 def tempfunction(n):
