@@ -86,6 +86,7 @@
 
 ### [Object Oriented Programming](https://github.com/pythoncoder100/practice/blob/master/Object%20Oriented%20Programming.md)
 ### [Lambda in Python](https://github.com/pythoncoder100/practice/blob/master/Lambda%20in%20python.md)
+### [Pass by reference,value or object](https://github.com/pythoncoder100/practice/blob/master/Pass%20by%20value%2C%20reference%2C%20or%20object.md)
 
 ### [Control Statements](https://github.com/pythoncoder100/practice/blob/master/Control%20Statements.md)
 ### [Basic Data Types](https://github.com/pythoncoder100/practice/blob/master/Basic%20Data%20Types.md)
