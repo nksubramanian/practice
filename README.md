@@ -80,6 +80,7 @@
 ### [Inheritance in python](https://github.com/pythoncoder100/practice/blob/master/Inheritance%20in%20python.md)
 ### [Including more data attributes to Derived class](https://github.com/pythoncoder100/practice/blob/master/Modifying%20Derived%20class.md)
 ### [Including more data attributes to Derived class using super()](https://github.com/pythoncoder100/practice/blob/master/Including%20more%20data%20attributes%20to%20child%20class%20using%20super().md)
+### [Creating overriding methods](https://github.com/pythoncoder100/practice/commit/cbf6ef6d86f0f9a026cc9597f815c8b6ef4dabf6)
 
 
 ### [Control Statements](https://github.com/pythoncoder100/practice/blob/master/Control%20Statements.md)
