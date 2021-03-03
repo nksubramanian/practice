@@ -74,6 +74,7 @@
 ### [Creating Classes and Objects in python](https://github.com/pythoncoder100/practice/commit/2e1c569be44bd5af9e408a528e2b208c1628402e)
 ### [\_init\_ method in the class](https://github.com/pythoncoder100/practice/blob/master/_init_%20method.md)
 ### [Modifying object values](https://github.com/pythoncoder100/practice/blob/master/Modifying%20Object%20properties.md)
+### [Including Methods in class ](https://github.com/pythoncoder100/practice/blob/master/Including%20methods%20in%20Class.md)
 
 
 ### [Control Statements](https://github.com/pythoncoder100/practice/blob/master/Control%20Statements.md)
