@@ -69,6 +69,7 @@
 ### [Using modules directly from Google Colab](https://github.com/pythoncoder100/practice/blob/master/Use%20modules%20by%20importing%20from%20Github.md)
 
 ### -----------
+### [Creating packages](https://github.com/pythoncoder100/practice/blob/master/Creating%20Packages%20in%20Python.md)
 
 ### [Control Statements](https://github.com/pythoncoder100/practice/blob/master/Control%20Statements.md)
 ### [Basic Data Types](https://github.com/pythoncoder100/practice/blob/master/Basic%20Data%20Types.md)
