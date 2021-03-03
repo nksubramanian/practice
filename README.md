@@ -76,6 +76,7 @@
 ### [Modifying object values](https://github.com/pythoncoder100/practice/blob/master/Modifying%20Object%20properties.md)
 ### [Including Methods in class ](https://github.com/pythoncoder100/practice/blob/master/Including%20methods%20in%20Class.md)
 ### [Deleting objects and its data members](https://github.com/pythoncoder100/practice/blob/master/Deleting%20object%20and%20it's%20data%20member.md)
+### [Creating an empty class using pass](https://github.com/pythoncoder100/practice/blob/master/Creating%20an%20Empty%20class%20using%20pass.md)
 
 
 ### [Control Statements](https://github.com/pythoncoder100/practice/blob/master/Control%20Statements.md)
