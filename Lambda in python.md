@@ -36,7 +36,7 @@ square_function(3)
 ```
 ```python
 powerto5 = tempfunction(5)
-square_function(3)
+powerto5(3)
 ```
 
 [Click here to try](https://colab.research.google.com/github/pythoncoder100/practice/blob/master/Lambda_function_abstraction.ipynb)
