@@ -22,3 +22,5 @@ class Cricketer(Adult):
 object1 = Cricketer("Tom",168, 65,22)
 object1.age
 ```
+
+[Click here to try](https://colab.research.google.com/github/pythoncoder100/practice/blob/master/Including_more_data_attributes_to_child_class_using_super().ipynb)
