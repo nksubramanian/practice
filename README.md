@@ -84,7 +84,7 @@
 ### [Creating overriding methods](https://github.com/pythoncoder100/practice/commit/cbf6ef6d86f0f9a026cc9597f815c8b6ef4dabf6)
 --->
 
-### [Object Oriented Programming](https://github.com/pythoncoder100/practice/blob/e257790a667751c3e065d0b49abb6f02154c094d/Object%20Oriented%20Programming.md)
+### [Object Oriented Programming](https://github.com/pythoncoder100/practice/blob/master/Object%20Oriented%20Programming.md)
 ### [Lambda in Python](https://github.com/pythoncoder100/practice/blob/master/Lambda%20in%20python.md)
 
 ### [Control Statements](https://github.com/pythoncoder100/practice/blob/master/Control%20Statements.md)
