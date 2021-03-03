@@ -1,4 +1,4 @@
-# Modifying Derived class using Super()
+# Modifying more data attributes to child class using super()
 
 Suppose you would want to make use of init method of the parent class in the child and also assign new data attributes to child class, you can use the following method
 
