@@ -85,6 +85,7 @@
 --->
 
 ### [Object Oriented Programming](https://github.com/pythoncoder100/practice/commit/7a88a8c717620e6c501620341f08288d88f30b06)
+### [Lambda in Python](https://github.com/pythoncoder100/practice/blob/master/Lambda%20in%20python.md)
 
 ### [Control Statements](https://github.com/pythoncoder100/practice/blob/master/Control%20Statements.md)
 ### [Basic Data Types](https://github.com/pythoncoder100/practice/blob/master/Basic%20Data%20Types.md)
