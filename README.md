@@ -83,7 +83,7 @@
 ### [Including more data attributes to Derived class using super()](https://github.com/pythoncoder100/practice/blob/master/Including%20more%20data%20attributes%20to%20child%20class%20using%20super().md)
 ### [Creating overriding methods](https://github.com/pythoncoder100/practice/commit/cbf6ef6d86f0f9a026cc9597f815c8b6ef4dabf6)
 --->
-### [Object OrientedWEFGWEmming](https://github.com/pythoncoder100/practice/7a88a8c717620e6c501620341f08288d88f30b06)
+### [Object OrientedWEFGWEmming](https://github.com/pythoncoder100/practice/blob/e257790a667751c3e065d0b49abb6f02154c094d/Object%20Oriented%20Programming.md)
 ### [Object Oriented Programming](https://github.com/pythoncoder100/practice/commit/7a88a8c717620e6c501620341f08288d88f30b06)
 ### [Lambda in Python](https://github.com/pythoncoder100/practice/blob/master/Lambda%20in%20python.md)
 
