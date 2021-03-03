@@ -79,6 +79,7 @@
 ### [Creating an empty class using pass](https://github.com/pythoncoder100/practice/blob/master/Creating%20an%20Empty%20class%20using%20pass.md)
 ### [Inheritance in python](https://github.com/pythoncoder100/practice/blob/master/Inheritance%20in%20python.md)
 ### [Including more data attributes to Derived class](https://github.com/pythoncoder100/practice/blob/master/Modifying%20Derived%20class.md)
+### [Including more data attributes to Derived class using super](https://github.com/pythoncoder100/practice/blob/master/Including%20more%20data%20attributes%20to%20child%20class%20using%20super().md)
 
 
 ### [Control Statements](https://github.com/pythoncoder100/practice/blob/master/Control%20Statements.md)
